@@ -1,13 +1,12 @@
 import EntryLine from './EntryLine';
 
-const EntryLines = ({entries, deleteEntry, editEntry}) => (
+const EntryLines = ({entries}) => (
     <div>
         {entries.map(entry => (
         <EntryLine
             key={entry.id}
             {...entry}
-            deleteEntry={deleteEntry}
-            editEntry={editEntry}/>)
+            />)
         )}
     </div>
 )

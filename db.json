@@ -1,0 +1,42 @@
+{
+  "entries": [
+    {
+      "id": 3,
+      "description": "Rent"
+    },
+    {
+      "id": "450fab86-c43c-4a54-a032-3f632f3bd98b",
+      "description": "dasd"
+    },
+    {
+      "id": "f5180a44-9d6c-46f1-93b9-4242d32d425c",
+      "description": "asda"
+    },
+    {
+      "id": "536914f0-6b79-4bbb-bda8-adbf9ef49160",
+      "description": "bew"
+    }
+  ],
+  "values": [
+    {
+      "id": 3,
+      "value": 300,
+      "isExpense": true
+    },
+    {
+      "id": "450fab86-c43c-4a54-a032-3f632f3bd98b",
+      "isExpense": true,
+      "value": "123"
+    },
+    {
+      "id": "f5180a44-9d6c-46f1-93b9-4242d32d425c",
+      "isExpense": false,
+      "value": "123"
+    },
+    {
+      "id": "536914f0-6b79-4bbb-bda8-adbf9ef49160",
+      "isExpense": false,
+      "value": "1231232131"
+    }
+  ]
+}
